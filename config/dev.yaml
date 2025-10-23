@@ -1,0 +1,20 @@
+
+twitter:
+  enabled: true
+  api_key: "TW_DEV_KEY"
+  api_secret: "TW_DEV_SECRET"
+
+instagram:
+  enabled: true
+  api_key: "IG_DEV_KEY"
+  api_secret: "IG_DEV_SECRET"
+
+linkedin:
+  enabled: true
+  api_key: "LI_DEV_KEY"
+  api_secret: "LI_DEV_SECRET"
+
+tiktok:
+  enabled: true
+  api_key: "TT_DEV_KEY"
+  api_secret: "TT_DEV_SECRET"
