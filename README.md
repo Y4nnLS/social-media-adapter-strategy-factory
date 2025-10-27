@@ -47,8 +47,6 @@ src/
       diagrams.md            # Diagramas em Mermaid
 config/
   dev.yaml                   # Config de exemplo (tokens falsos)
-tests/
-  test_unified_flow.py       # Testes de integração simulados
 requirements.txt
 main.py                      # CLI de demonstração
 ```
